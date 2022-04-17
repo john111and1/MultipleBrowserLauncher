@@ -1,4 +1,4 @@
-^g::
+^g:: ; Ctrl + g
 Run, firefox.exe
 Sleep, 1000
 Run, msedge.exe
